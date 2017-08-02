@@ -2735,9 +2735,9 @@
 		#header .container {
 
 			bottom: 0;
-			margin-left: 19.5em;
 			padding: 2.5em;
 			position: absolute;
+			width: 100%
 		}
 
 			#header .container > :last-child {
