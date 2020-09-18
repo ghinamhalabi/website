@@ -2873,11 +2873,11 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				height: 17em;
+				height: 20em;
 			}
 
 				.homepage #header {
-					height: 20em;
+					height: 26em;
 				}
 
 		/* Logo */
@@ -2983,3 +2983,18 @@ input, select, textarea {
 						}
 
 	}
+
+/**symaticsolutions.com*/
+p.contact-submit-message.success {
+	background-color: green;
+	padding: 10px 20px;
+	border-radius: 5px;
+	color: #fff;
+}
+
+p.contact-submit-message.error {
+	background-color: red;
+	padding: 10px 20px;
+	border-radius: 5px;
+	color: #fff;
+}
