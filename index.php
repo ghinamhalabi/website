@@ -18,17 +18,15 @@ require_once ('./header.php');
 					<div class="container">
 						<!--<p class="style1">So in case you were wondering what this is all about ...</p>
 					 	<p class="style2">
-							Escape Velocity is a free responsive<br class="mobile-hide" />
-							site template by <a href="http://html5up.net" class="nobr">HTML5 UP</a> -->
-						</p>
-						<!--<p class="style3">It's <strong>responsive</strong>, built on <strong>HTML5</strong> and <strong>CSS3</strong>, and released for
-						free under the <a href="http://html5up.net/license">Creative Commons Attribution 3.0 license</a>, so use it for any of
-						your personal or commercial projects &ndash; just be sure to credit us!</p> -->
-						<p class="style3">I will be speaking at the <a href="https://stemwomenconference.co.uk/speakers/" target="_blank">Women in STEM 2020 conference </a> in November. In the run-up to the event, I was invited to write an opinion piece on how to improve the engagement of the youth in STEM. In <br><strong>"Tough-Stemmed in STEM"
-						</strong> I describe how storytelling and entrepreneurship can help us achieve that.
+							A free responsive<br class="mobile-hide" />
+							site template by <a href="http://html.net" class="nobr">HTML</a>
+						</p> -->
+
+						<p class="style3">My work on <a href="http://shespeaksscience.com/" target="_blank">She Speaks Science</a> has been featured on the UN Office for Outer Space Affairs "Space for Women" Website. In the article, <br><strong>"She Speaks Science: Own your Story"
+						</strong> I narrate how my stolen childhood dream metamorphosed into defiance, resolution and route to change.
 						</p>
 						<ul class="actions">
-							<li><a href="https://blog.insidegovernment.co.uk/higher-education/storytelling-entrepreneurship" class="button style3 large" target="_blank">Read article</a></li>
+							<li><a href="https://space4women.unoosa.org/news/space4women-mentor-project-spotlight-she-speaks-science-own-your-story" class="button style3 large" target="_blank">Read the article</a></li>
 						</ul>
 					</div>
 				</section>
