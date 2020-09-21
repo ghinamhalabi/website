@@ -22,7 +22,7 @@ require_once ('./header.php');
 							site template by <a href="http://html.net" class="nobr">HTML</a>
 						</p> -->
 
-						<p class="style3">My work on <a href="http://shespeaksscience.com/" target="_blank">She Speaks Science</a> has been featured on the UN Office for Outer Space Affairs "Space for Women" Website. In the article, <br><strong>"She Speaks Science: Own your Story"
+						<p class="style3">My work on <a href="http://shespeaksscience.com/" target="_blank">She Speaks Science</a> has been featured on the UN Office for Outer Space Affairs "Space for Women" Website. In the article, <strong>"She Speaks Science: Own your Story"
 						</strong> I narrate how my stolen childhood dream metamorphosed into defiance, resolution and route to change.
 						</p>
 						<ul class="actions">
