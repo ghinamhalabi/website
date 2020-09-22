@@ -54,7 +54,7 @@ require_once ('./header.php');
 														<h2>Space in Tech and Innovation</h2>
 													</header>
 													<a  class="image featured"><img src="images/tech.jpg" alt="" /></a>
-													<p>I consult for innovative businesses to bring space science into the creative industries and high-end tech. Currently consulting for a business in the audiovisual industry (research in stealth mode, more details coming soon).
+													<p>I consult for businesses to bring space science into the creative industries and high-end tech. Currently consulting for innovative businesses in the music and audiovisual industries (projects in stealth mode, more details coming soon).
 												If you want to discuss a project I can help you with please get in touch.</p>
 													<a href="mailto:contact [at] ghina.co.uk" rel="nofollow" onclick="this.href='mailto:'+'contact'+'@'+'ghina.co.uk'" class="button style1">Send an email</a>
 												</section>
