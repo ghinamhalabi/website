@@ -86,16 +86,15 @@ require_once ('./header.php');
 												</section>
 											</div>
 											<div class="col-6 col-12-small">
-											<!-- 	<section class="box">
+											 	<section class="box">
 													<header>
-														<h2>Inclusion in STEM</h2>
+														<h2>NASA Space Apps Challenge Judge</h2>
 													</header>
-													<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
-													<p>Rutrum bibendum. Proin pellentesque diam non ligula commodo tempor. Vivamus
-													eget urna nibh. Curabitur non fringilla nisl. Donec accumsan interdum nisi, quis
-													tempus.</p>
-													<a href="#" class="button style1">More</a>
-												</section> -->
+													<a href="https://www.spaceappschallenge.org/" target="_blank" class="image featured"><img src="images/NSA.jpg" alt="" /></a>
+													<p>Evaluating projects from UAE teams of scientists, technologists and engineers
+														at NASA Space Apps Challenge, the largest global hackathon. Teams use NASA open source data in a 48-hour sprint and hack solutions to challenges we face on Earth and in Space.</p>
+													<a href="https://www.spaceappschallenge.org/" target="_blank" class="button style1">More about SPace Apps</a>
+												</section>
 											</div>
 										</div>
 
