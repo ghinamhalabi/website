@@ -34,7 +34,7 @@ require_once ('./header.php');
 											Today, She Speaks Science has grown into a global enterprise. Our storytellers write about their STEM research in the monthly publication, Scheherazade, offered in five languages and we
 										 run fun and engaging storytelling workshops at schools.<br><br>
 											I'm committed to the advancement of not only women in STEM but also women in business.<br><br>
-											At Cambridge Judge Business School Entrepreneurship Centre I designed, launched and now lead EnterpriseWOMEN, a programme informed by research
+											At Cambridge Judge Business School Entrepreneurship Centre I designed, launched and led EnterpriseWOMEN, a programme informed by research
 												and human experience to help enterprising women grow their businesses. Within a few months of its launch, it grew into a
 												 movement championed by seasoned and aspiring entrepreneurs, VIP supporters and contributors of the highest calibre.</font></p>
 
