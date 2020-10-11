@@ -46,7 +46,7 @@ require_once ('./header.php');
 								<header class="style1">
 
 									<h2 style="font-size:25px"> I was the first to get a PhD in astrophysics from a Lebanese university. I want to make sure that I'm not the last.</h2>
-									<p style="font-size:16px"><font color="#808080">My work lies at the intersection of science, entrepreneurship and education. Thirteen years of research experience in astrophysics lends itself to an ability to think creatively, navigate complexity and drive change with innovative solutions.</p>
+									<p style="font-size:16px"><font color="#808080">My work lies at the intersection of science, entrepreneurship and education. Thirteen years of research experience in astrophysics lends itself to an ability to think creatively, navigate complexity and drive progress with innovative solutions.</p>
 
 								<!-- Ghina removed this
 								<div class="feature-list">
