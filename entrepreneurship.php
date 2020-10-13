@@ -31,7 +31,7 @@ require_once ('./header.php');
 											</a> -->
 											<p style="font-size:16px"><font color="#303030">I was the first to get a PhD in astrophysics from a Lebanese university. I want to make sure that I'm not the last.
 												So in 2018 I founded <a href="http://shespeaksscience.com/" target="_blank">She Speaks Science</a>, to challenge the narrative of who does STEM and highlight women scientists.
-											Today, She Speaks Science has grown into a global enterprise. Our storytellers write about their STEM research in the monthly publication, Scheherazade, offered in five languages and we
+											Supported by University of Cambridge and the International Astronomical Union, She Speaks Science has grown into a global enterprise. Our storytellers write about their STEM research in the monthly publication, Scheherazade, offered in five languages and we
 										 run fun and engaging storytelling workshops at schools.<br><br>
 											I'm committed to the advancement of not only women in STEM but also women in business.<br><br>
 											At Cambridge Judge Business School Entrepreneurship Centre I designed, launched and led EnterpriseWOMEN, a programme informed by research

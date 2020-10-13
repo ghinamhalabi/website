@@ -37,7 +37,7 @@ Escape Velocity by HTML5 UP
                     <?php
                         if($isHomePage):
                     ?>
-                            <p><font color="White">Space Scientist <font color="Crimson">&#9679;</font> Consultant <font color="Crimson">&#9679;</font> Storyteller <font color="Crimson">&#9679;</font> Public Speaker</font></p>
+                            <p><font color="White">Space Scientist <font color="Crimson">&#9679;</font> Consultant <font color="Crimson">&#9679;</font> Founder <font color="Crimson">&#9679;</font> Public Speaker</font></p>
                     <?php
                         endif;
                     ?>
