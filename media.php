@@ -120,19 +120,19 @@ require_once ('./header.php');
 											<div class="col-6 col-12-small">
 												<section class="box">
 													<header>
-														<h2>The Winning Side</h2>
-													</header>
-														<p> A conversation with Peju Adebajo and Sara Hasan on women empowerment and designing a better future.</p>
-													<a href="https://www.podbean.com/eu/pb-5cxsj-e73b22" class="button style1" target="_blank">Get on the winning side</a>
-												</section>
+														<h2>Femme Lead Podcast - 2020</h2>
+														</header>
+														<p> With Alexandra Ciobotaru on being a scientist, taking up space and positive self-identity around STEM.</p>
+														<a href="https://www.podbean.com/eu/pb-5cxsj-e73b22" class="button style1" target="_blank">Have a listen</a>
+															</section>
 											</div>
 											<div class="col-6 col-12-small">
 												<section class="box">
 													<header>
-														<h2>Women Making Waves </h2>
+														<h2>The Winning Side - 2020</h2>
 													</header>
-													<p>A coversation with Suzie Thorpe on the successes and failures on my journey in science and gender advocacy.</p>
-													<a href="https://soundcloud.com/user-603229904/dr-ghina-halabi" class="button style1" target="_blank">Listen to some waves</a>
+														<p> With Peju Adebajo and Sara Hasan on women empowerment and designing a better future.</p>
+													<a href="https://www.podbean.com/eu/pb-5cxsj-e73b22" class="button style1" target="_blank">Get on the winning side</a>
 												</section>
 											</div>
 										</div>
@@ -142,19 +142,19 @@ require_once ('./header.php');
 											<div class="col-6 col-12-small">
 												<section class="box">
 													<header>
-														<h2>The Interplanetary Podcast</h2>
+														<h2>Women Making Waves - 2019</h2>
 													</header>
-														<p> A conversation with Matthew Russell on struggles, stellar music and raison d'être of She Speaks Science.</p>
-													<a href="https://www.interplanetary.org.uk/post/157-ghina-halabi-wormholes" class="button style1" target="_blank">Listen to space stories</a>
+													<p> With Suzie Thorpe on the successes and failures on my journey in science and gender advocacy.</p>
+													<a href="https://soundcloud.com/user-603229904/dr-ghina-halabi" class="button style1" target="_blank">Listen to some waves</a>
 												</section>
 											</div>
 											<div class="col-6 col-12-small">
 												<section class="box">
 													<header>
-														<h2>Business of Story</h2>
+														<h2>The Interplanetary Podcast - 2019</h2>
 													</header>
-													<p>A coversation with Park Howell on our stellar origins and communicating science with story.</p>
-													<a href="https://businessofstory.com/podcast/female-scientists/" class="button style1" target="_blank">Hear why science needs story</a>
+														<p> With Matthew Russell on struggles, stellar music and raison d'être of She Speaks Science.</p>
+													<a href="https://www.interplanetary.org.uk/post/157-ghina-halabi-wormholes" class="button style1" target="_blank">Listen to space stories</a>
 												</section>
 											</div>
 										</div>
@@ -163,13 +163,21 @@ require_once ('./header.php');
 											<div class="col-6 col-12-small">
 												<section class="box">
 													<header>
-														<h2>Melanin Memos</h2>
+														<h2>Business of Story - 2019</h2>
+													</header>
+													<p> With Park Howell on our stellar origins and communicating science with story.</p>
+													<a href="https://businessofstory.com/podcast/female-scientists/" class="button style1" target="_blank">why science needs story</a>
+												</section>
+											</div>
+											<div class="col-6 col-12-small">
+												<section class="box">
+													<header>
+														<h2>Melanin Memos - 2019</h2>
 													</header>
 													<p>On mentorship, my work with the UN and the importance of giving back to our communities.</p>
 													<a href="https://www.mixcloud.com/MelaninMemos/episode-1-leadership-and-mentors/" class="button style1" target="_blank">On Leadership and Mentors</a>
 												</section>
 											</div>
-
 										</div>
 
 

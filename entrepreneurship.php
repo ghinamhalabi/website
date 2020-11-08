@@ -72,33 +72,33 @@ require_once ('./header.php');
 											<header>
 												<h2>Speaking and training enquiries</h2>
 											</header>
-											<p>I speak on entrepreneurship and train entrepreneurs on storytelling. Please get in touch to discuss your requirements.</p>
+											<p>I offer training and 1:1 sessions on storytelling to amplify your impact and communicate with confidence and power. Get in touch to chat about it!</p>
 											<a href="mailto:contact [at] ghina.co.uk" rel="nofollow" onclick="this.href='mailto:'+'contact'+'@'+'ghina.co.uk'" class="button style1">Send an email</a>
 										</section>
 										<section class="box">
 											<header>
-												<h2>Entrepreneurs I have trained</h2>
+												<h2>She Speaks Science featured in..</h2>
 											</header>
 											<ul class="style2">
 												<li>
 													<article class="box post-excerpt">
-														<a href="https://www.jbs.cam.ac.uk/entrepreneurship/" class="image left" target="_blank"><img src="images/cjbs.jpg" alt="" /></a>
-														<h3><a href="https://www.jbs.cam.ac.uk/entrepreneurship/" target="_blank">Cambridge Judge Business School</a></h3>
-														<p>Helping EnterpriseTECH and EnterpriseWOMEN participants communicate who they are, why their business exists and what it does.</p>
+														<a href="https://space4women.unoosa.org/news/space4women-mentor-project-spotlight-she-speaks-science-own-your-story" class="image left" target="_blank"><img src="images/unoosa-Logo.png" alt="" /></a>
+														<h3><a href="https://space4women.unoosa.org/news/space4women-mentor-project-spotlight-she-speaks-science-own-your-story" target="_blank">UN Office for Outer Space Affairs</a></h3>
+														<p>This feature "She Speaks Science: Own your Story" narrates how a stolen childhood dream metamorphosed into defiance, resolution and route to change.</p>
 													</article>
 												</li>
 												<li>
 													<article class="box post-excerpt">
-														<a href="https://camvscovid.co.uk/" class="image left" target="_blank"><img src="images/camvscov.jpg" alt="" /></a>
-														<h3><a href="https://camvscovid.co.uk/" target="_blank">CAMvsCOVID</a></h3>
-														<p>Coached teams participating in #CAMvsCOVID Challenge, a social hackathon to tackle Covid-19 challenges, on delivering their pitch.</p>
+														<a href="https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2020.110" class="image left" target="_blank"><img src="images/Nature.png" alt="" /></a>
+														<h3><a href="https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2020.110" target="_blank">Nature Middle East</a></h3>
+														<p>The feature highlights grassroots initiatives led by Arab women like Dr Ghina M. Halabi to address the challenges facing women in science globally.</p>
 													</article>
 												</li>
 												<li>
 													<article class="box post-excerpt">
-														<a href="https://ihjoz.com/events/4280-effective-communication-using-storytelling?fbclid=IwAR3_cbGetyvBJJoXj73Dih31389i3eKxANR6N8BJCJhJO9ugBzBl5WQdGAw" class="image left" target="_blank"><img src="images/bdd.jpeg" alt="" /></a>
-														<h3><a href="https://ihjoz.com/events/4280-effective-communication-using-storytelling?fbclid=IwAR3_cbGetyvBJJoXj73Dih31389i3eKxANR6N8BJCJhJO9ugBzBl5WQdGAw" target="_blank">Beirut Digital District</a></h3>
-														<p>A dynamic workshop for entrepreneurs at BDD, hub for the digital and creative industries in Lebanon, on how to amplify their impact through storytelling.</p>
+														<a href="https://theconversation.com/a-giant-leap-for-humankind-future-moon-missions-will-include-diverse-astronauts-and-more-partners-117064" class="image left" target="_blank"><img src="images/conv.png" alt="" /></a>
+														<h3><a href="https://theconversation.com/a-giant-leap-for-humankind-future-moon-missions-will-include-diverse-astronauts-and-more-partners-117064" target="_blank">The Conversation</a></h3>
+														<p>Featured as an initiative that weaves space stories to educate and inspire people’s interest in space and exploration.</p>
 </p>
 													</article>
 												</li>
