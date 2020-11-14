@@ -27,7 +27,7 @@
                 <section class="highlight">
                     <a href="entrepreneurship.php" class="image featured"><img src="images/ent1.jpg" alt="" /></a>
                     <h3><a href="entrepreneurship.php">Entrepreneurship</a></h3>
-                    <p>A social entrepreneur, I'm Founder and Executive Director of She Speaks Science. I also lead an entreprenruship programme at Cambridge Judge Business School.</p>
+                    <p>A social entrepreneur, I'm Founder and Executive Director of She Speaks Science. I also lead an entrepreneurship programme at Cambridge Judge Business School.</p>
                     <ul class="actions">
                         <li><a href="entrepreneurship.php" class="button style1">Learn More</a></li>
                     </ul>

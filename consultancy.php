@@ -24,7 +24,7 @@ require_once ('./header.php');
 										<article class="box post">
 											<header class="style1">
 												<h2>Bringing space and storytelling into business to boost innovation and inclusion</h2>
-												<p>Working with businesses, the UN, and leading communication workshops</p>
+												<p>Working with businesses, the UN, and coaching on innovation storytelling</p>
 											</header>
 
 											<!--  Removed by Ghina
@@ -62,11 +62,11 @@ require_once ('./header.php');
 											<div class="col-6 col-12-small">
 												<section class="box">
 													<header>
-														<h2>Storytelling Workshops</h2>
+														<h2>Storytelling Training</h2>
 													</header>
 													<a  class="image featured"><img src="images/cons1.jpg" alt="" /></a>
-													<p>I consult on communication and lead dynamic workshops on academic and business storytelling. I've helped researchers and entrepreneurs
-														communicate with clarity and impact. If you'd like to discuss running a workshop at your company or institution please get in touch.</p>
+													<p>I coach on innovation storytelling through workshops and executive 1:1 training. I've helped executives, academics and entrepreneurs
+														communicate with clarity and impact. If you'd like to discuss 1:1 training, or running a workshop at your company or institution please get in touch.</p>
 													<a href="mailto:contact [at] ghina.co.uk" rel="nofollow" onclick="this.href='mailto:'+'contact'+'@'+'ghina.co.uk'" class="button style1">Send an email</a>
 												</section>
 											</div>
@@ -84,9 +84,8 @@ require_once ('./header.php');
 														</p>
 													<a href="https://space4women.unoosa.org/content/2020-mentor-ghina-halabi" target="_blank" class="button style1"> Learn More</a>
 												</section>
-											</div>
-											<div class="col-6 col-12-small">
-											 	<section class="box">
+
+												<section class="box">
 													<header>
 														<h2>NASA Space Apps Challenge Judge</h2>
 													</header>
@@ -94,6 +93,17 @@ require_once ('./header.php');
 													<p>Evaluating projects from UAE teams of scientists, technologists and engineers
 														at NASA Space Apps Challenge, the largest global hackathon. Teams use NASA open source data in a 48-hour sprint and hack solutions to challenges we face on Earth and in Space.</p>
 													<a href="https://www.spaceappschallenge.org/" target="_blank" class="button style1">More about SPace Apps</a>
+												</section>
+											</div>
+											<div class="col-6 col-12-small">
+											 	<section class="box">
+													<header>
+														<h2>Storytelling Consultancy</h2>
+													</header>
+													<a href="https://masterclasses.nature.com/online-course-in-narrative-tools/18498356" target="_blank" class="image featured"><img src="images/mastercl.png" alt="" /></a>
+													<p>I acted as expert reviewer for Nature Masterclasses to help them develop their "Narrative Tools for Researchers" course so scientists become better at communicating their work and bring their research stories to life.
+													</p>
+													<a href="https://masterclasses.nature.com/online-course-in-narrative-tools/18498356" target="_blank" class="button style1">Check the course out</a>
 												</section>
 											</div>
 										</div>
@@ -109,7 +119,7 @@ require_once ('./header.php');
 											<header>
 												<h2>Consulting and training enquiries</h2>
 											</header>
-											<p>I consult for businesses to bring space science into the creative industries and high-end tech. I also speak on astrophysics and inclusion in STEM, and lead workshops on storytelling. Please get in touch to discuss your requirements.</p>
+											<p>I consult for businesses to bring space science into the creative industries and high-end tech. I coach on innovation storytelling through workshops and executive 1:1 training. Please get in touch to discuss your requirements.</p>
 											<a href="mailto:contact [at] ghina.co.uk" rel="nofollow" onclick="this.href='mailto:'+'contact'+'@'+'ghina.co.uk'" class="button style1">Send an email</a>
 										</section>
 
