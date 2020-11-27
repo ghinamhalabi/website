@@ -54,7 +54,7 @@ require_once ('./header.php');
 														<h2>Space in Tech and Innovation</h2>
 													</header>
 													<a  class="image featured"><img src="images/tech.jpg" alt="" /></a>
-													<p>I consult for businesses to bring space science into the creative industries and high-end tech. Currently consulting for innovative businesses in the music and audiovisual industries (projects in stealth mode, more details coming soon).
+													<p>I consult for businesses to bring space science into the creative industries and high-end tech. Currently consulting for innovative businesses in the music and audiovisual industries (projects in stealth mode).
 												If you want to discuss a project I can help you with please get in touch.</p>
 													<a href="mailto:contact [at] ghina.co.uk" rel="nofollow" onclick="this.href='mailto:'+'contact'+'@'+'ghina.co.uk'" class="button style1">Send an email</a>
 												</section>
@@ -77,10 +77,10 @@ require_once ('./header.php');
 											<div class="col-6 col-12-small">
 												<section class="box">
 													<header>
-														<h2>Inclusion in STEM - work with UNOOSA</h2>
+														<h2>Inclusion in STEM - UNOOSA</h2>
 													</header>
 													<a href="https://space4women.unoosa.org/content/2020-mentor-ghina-halabi" target="_blank" class="image featured"><img src="images/unoosa.png" alt="" /></a>
-													<p>I am a STEM mentor in the UN Office For Outer Space Affairs "Space for Women" Network, and provided input and recommendations for the UN Space for Women Project established by UNOOSA and UN Women to address gender equality (SGD5).
+													<p>I am a STEM mentor in the UN Office For Outer Space Affairs "Space for Women" Network, and provided input and recommendations for the UN Space for Women Project established by UNOOSA and UN Women to address gender equality.
 														</p>
 													<a href="https://space4women.unoosa.org/content/2020-mentor-ghina-halabi" target="_blank" class="button style1"> Learn More</a>
 												</section>

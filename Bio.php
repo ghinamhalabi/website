@@ -98,14 +98,14 @@ require_once ('./header.php');
 													<article class="box post-excerpt">
 														<a href="http://www.wolfson.cam.ac.uk/" target="_blank" class="image left"><img src="images/wlf.png" alt="" /></a>
 														<h3><a href="http://www.wolfson.cam.ac.uk/" target="_blank">Wolfson College, University of Cambridge</a></h3>
-														<p>Member and previously Junior Research Fellow</p>
+														<p>Junior Research Fellow</p>
 													</article>
 												</li>
 												<li>
 													<article class="box post-excerpt">
 														<a href="https://www.ras.org.uk/" target="_blank" class="image left"><img src="images/ras.png" alt="" /></a>
 														<h3><a href="https://www.ras.org.uk/" target="_blank">Royal Astronomical Society & European Astronomical Society</a></h3>
-														<p>Member</p>
+														<p>Fellow</p>
 													</article>
 												</li>
 												<li>
