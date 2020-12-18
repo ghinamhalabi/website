@@ -22,7 +22,7 @@ require_once ('./header.php');
 							site template by <a href="http://html.net" class="nobr">HTML</a>
 						</p> -->
 
-						<p class="style3">I was a guest on the <strong>International Astronomical Union Online Discourse Series</strong> and talked about the concept of "owning one's story" as path to empowerment. It was a whistle-stop tour of my life journey: budding, becoming and being. I also talked about Joan Feyman's cobwebs and blamed Red Riding Hood.
+						<p class="style3">I was a guest on the <strong>International Astronomical Union Online Discourse Series</strong> and talked about the concept of "owning one's story" as path to empowerment. It was a whistle-stop tour of my life journey: budding, becoming and being. I also talked about Joan Feynman's cobwebs and blamed Red Riding Hood.
 
 						</p>
 						<ul class="actions">
