@@ -123,7 +123,7 @@ require_once ('./header.php');
 														<h2>Femme Lead Podcast - 2020</h2>
 														</header>
 														<p> With Alexandra Ciobotaru on being a scientist, taking up space and positive self-identity around STEM.</p>
-														<a href="https://www.podbean.com/eu/pb-5cxsj-e73b22" class="button style1" target="_blank">Have a listen</a>
+														<a href="https://www.podbean.com/eu/pb-5cxsj-e73b22" class="button style1" target="_blank">Listen to podcast</a>
 															</section>
 											</div>
 											<div class="col-6 col-12-small">
@@ -166,7 +166,7 @@ require_once ('./header.php');
 														<h2>Business of Story - 2019</h2>
 													</header>
 													<p> With Park Howell on our stellar origins and communicating science with story.</p>
-													<a href="https://businessofstory.com/podcast/female-scientists/" class="button style1" target="_blank">why science needs story</a>
+													<a href="https://businessofstory.com/podcast/female-scientists/" class="button style1" target="_blank">Listen to podcast</a>
 												</section>
 											</div>
 											<div class="col-6 col-12-small">
@@ -174,8 +174,8 @@ require_once ('./header.php');
 													<header>
 														<h2>Melanin Memos - 2019</h2>
 													</header>
-													<p>On mentorship, my work with the UN and the importance of giving back to our communities.</p>
-													<a href="https://www.mixcloud.com/MelaninMemos/episode-1-leadership-and-mentors/" class="button style1" target="_blank">On Leadership and Mentors</a>
+													<p>On mentorship, my work with the UN and the importance of giving back.</p>
+													<a href="https://www.mixcloud.com/MelaninMemos/episode-1-leadership-and-mentors/" class="button style1" target="_blank">Listen to podcast</a>
 												</section>
 											</div>
 										</div>

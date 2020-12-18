@@ -22,11 +22,11 @@ require_once ('./header.php');
 							site template by <a href="http://html.net" class="nobr">HTML</a>
 						</p> -->
 
-						<p class="style3">I was a guest on <strong>Femme Lead Podcast	</strong> with Alexandra Ciobotaru. We talked about owning one's story, taking up space and cultivating positive forms of self-identity around STEM and leadership.
+						<p class="style3">I was a guest on the <strong>International Astronomical Union Online Discourse Series</strong> and talked about the concept of "owning one's story" as path to empowerment. It was a whistle-stop tour of my life journey: budding, becoming and being. I also talked about Joan Feyman's cobwebs and blamed Red Riding Hood.
 
 						</p>
 						<ul class="actions">
-							<li><a href="https://www.buzzsprout.com/1084469/6130780" class="button style3 large" target="_blank">Have a listen</a></li>
+							<li><a href="https://www.youtube.com/watch?v=Lm2C1nVGwLY&feature=youtu.be&ab_channel=IAUJuniorMemberWG" class="button style3 large" target="_blank">Check it out!</a></li>
 						</ul>
 					</div>
 				</section>
