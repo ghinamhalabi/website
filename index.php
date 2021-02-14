@@ -22,11 +22,11 @@ require_once ('./header.php');
 							site template by <a href="http://html.net" class="nobr">HTML</a>
 						</p> -->
 
-						<p class="style3">I was a guest on the <strong>International Astronomical Union Online Discourse Series</strong> and talked about the concept of "owning one's story" as path to empowerment. It was a whistle-stop tour of my life journey: budding, becoming and being. I also talked about Joan Feynman's cobwebs and blamed Red Riding Hood.
+						<p class="style3">I was an invited speaker at the <strong>UNOOSA Expert Meeting: Making Space4Women in the Decade of Action</strong> on 11 Feb, International Day of Women and Girls in Science to speak about how She Speaks Science is serving women and girls around the globe. We also launched PENTA by She Speaks Science, an exclusive glocal mentorship programme.
 
 						</p>
 						<ul class="actions">
-							<li><a href="https://www.youtube.com/watch?v=Lm2C1nVGwLY&feature=youtu.be&ab_channel=IAUJuniorMemberWG" class="button style3 large" target="_blank">Check it out!</a></li>
+							<li><a href="https://www.shespeaksscience.com/penta/" class="button style3 large" target="_blank">Read About PENTA</a></li>
 						</ul>
 					</div>
 				</section>

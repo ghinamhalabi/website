@@ -39,6 +39,8 @@ require_once ('./header.php');
 
 											<br> <a href="https://www.youtube.com/watch?v=QgrHu53Dxmg" target="_blank">The Genius Formula</a></p>
 
+											<p align="left"><a href="https://space4women.unoosa.org/events/unoosa-expert-meeting-making-space4women-decade-action" target="_blank"> UNOOSA Expert Meeting: Making Space4Women in the Decade of Action, </a> Virtual | 2021	<br>Invited talk: Space4Women and She Speaks Science, a power couple
+											<p align="left"><a href="https://www.youtube.com/watch?v=Lm2C1nVGwLY&feature=youtu.be&ab_channel=IAUJuniorMemberWG" target="_blank"> International Astronomical Union Online Discourse Series, </a> Virtual | 2020	<br>Invited keynote: Owning Your Story
 											<p align="left"><a href="https://www.universiteitleiden.nl/old-observatory/events/2020/februari/pale-blue-dot-symposium" target="_blank"> Arab Science Week, </a> Virtual | 2020	<br>Invited speaker and panelist
 											<p align="left"><a href="https://www.universiteitleiden.nl/old-observatory/events/2020/februari/pale-blue-dot-symposium" target="_blank"> IAU Pale Blue Dot Symposium, University of Leiden,</a> Netherlands | 2020	<br>Invited speaker: Scheherazade and the Power of Story
 											<p align="left"><a href="http://www.unoosa.org/oosa/en/ourwork/activities/un-jordan.html" target="_blank"> United Nations/Jordan Event on Global Partnership in Space Exploration and Innovation,</a> Amman | 2019	<br>Invited speaker: Power of the Spoken Word: How Stories can Shape Realities, on Earth and in Space
