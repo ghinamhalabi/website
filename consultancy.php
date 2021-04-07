@@ -198,7 +198,7 @@ require_once ('./header.php');
 											<ul class="style3">
 												<li><i>"The insights Ghina gave in the world of storytelling and pitching were brilliant, and we received overwhelmingly positive feedback on all levels from students to senior executives."</i><br>Darius Sultani, Organiser</li>
 												<li><i>"Ghina Halabi is an inspirational speaker, with strong credentials. She captivated the audience for the CamAWiSE seminar in creating a stimulating narrative for communicating research."</i><br>Raheela Rehman, Project Officer</li>
-												<li><i>"I recently needed to prepare for a keynote speech and I applied all that you taught us...and received very positive feedback!"</i><br>CamAWiSE Member, Senior Excecutive</li>
+												<li><i>"I recently needed to prepare for a keynote speech and I applied all that you taught us...and received very positive feedback!"</i><br>CamAWiSE Member, Senior Executive</li>
 												<li><i>“The workshop was a great success to say the least. Most notable was [Ghina's] use of visual aids and analogies to eloquently drive the point home.”<br></i> Rouha Hussaina, Manager</li>
 												<li><i>“Ghina is an exceptional speaker, I attended a workshop with her about storytelling without the need to ask for a break, the content is very useful and her public speaking skills are phenomenal.”</i><br>Nadim Jarjour, Consultant</li>
 
