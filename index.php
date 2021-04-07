@@ -22,10 +22,10 @@ require_once ('./header.php');
 							site template by <a href="http://html.net" class="nobr">HTML</a>
 						</p> -->
 
-						<p class="style3">I was invited to <a href="https://space4women.unoosa.org/events/unoosa-expert-meeting-making-space4women-decade-action" target="_blank"><strong>UNOOSA Expert Meeting: Making Space4Women in the Decade of Action</strong></a> on 11 Feb, International Day of Women and Girls in Science to speak about how She Speaks Science is serving women and girls around the globe. <br><br> We also launched PENTA by She Speaks Science, a global two-way mentorship programme.
+						<p class="style3">I spoke at the UN Office for Outer Space Afffairs <a href="https://space4women.unoosa.org/events/unoosa-expert-meeting-making-space4women-decade-action" target="_blank"><strong>Expert Meeting: Making Space4Women in the Decade of Action</strong></a> about how She Speaks Science is serving women and girls around the globe.
 						</p>
 						<ul class="actions">
-							<li><a href="https://www.shespeaksscience.com/penta/" class="button style3 large" target="_blank">Read About PENTA</a></li>
+							<li><a href="https://www.youtube.com/watch?v=9GoLJyAc8Ok&ab_channel=SheSpeaksScience" class="button style3 large" target="_blank">Listen to the talk</a></li>
 						</ul>
 					</div>
 				</section>
