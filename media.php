@@ -101,7 +101,7 @@ require_once ('./header.php');
 											<div class="col-6 col-12-small">
 												<section class="box">
 													<header>
-														<h2>Cambridge University trailblazing scientists/h2>
+														<h2>Cambridge University trailblazing scientists</h2>
 													</header>
 													<a href="https://www.cam.ac.uk/iwd2019" class="image featured" target="_blank"><img src="images/crop.jpeg" alt="" /></a>
 													<p>Feature as one of the Cambridge trailblazing scientists, for International Women's Day 2019.</p>
