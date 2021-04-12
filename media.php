@@ -23,7 +23,7 @@ require_once ('./header.php');
 									<div id="content">
 										<article class="box post">
 											<header class="style1">
-												<h2>From Scheherazade to Urania, a Modern Muse for Astronomy</h2>
+												<h2>From Scheherazade to Urania, a modern muse for astronomy</h2>
 												<p>Media appearances, podcasts and news features</p>
 											</header>
 
@@ -101,7 +101,7 @@ require_once ('./header.php');
 											<div class="col-6 col-12-small">
 												<section class="box">
 													<header>
-														<h2>The manmade ‘stars’ - BBC Future</h2>
+														<h2>Cambridge University trailblazing scientists/h2>
 													</header>
 													<a href="https://www.cam.ac.uk/iwd2019" class="image featured" target="_blank"><img src="images/crop.jpeg" alt="" /></a>
 													<p>Feature as one of the Cambridge trailblazing scientists, for International Women's Day 2019.</p>

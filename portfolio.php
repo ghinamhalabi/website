@@ -16,7 +16,7 @@
                 <section class="highlight">
                     <a href="consultancy.php" class="image featured"><img src="images/cons.jpg" alt="" /></a>
                     <h3><a href="consultancy.php">Consultancy</a></h3>
-                    <p>Consultant on space and astrophysics, communication with storytelling, and inclusion in STEM. A STEM mentor with the UN with advisory roles in public engagement.</p>
+                    <p>Consultant on space and astrophysics, communication with storytelling, and inclusion in STEM. A UN STEM mentor with advisory roles in public engagement.</p>
                     <ul class="actions">
                         <li><a href="consultancy.php" class="button style1">Learn More</a></li>
                     </ul>

@@ -24,15 +24,15 @@ require_once ('./header.php');
 										<article class="box post">
 											<header class="style1">
 												<h2>For the advancement of women in STEM and in business</h2>
-												<p>Founding a social enterprise and leading an entrepreneurship programme</p>
+												<p>Founder of a social enterprise and leading an entrepreneurship programme</p>
 											</header>
 											<!--  <a href="#" class="image featured">
 												<img src="images/pic01.jpg" alt="" />
 											</a> -->
 											<p style="font-size:16px"><font color="#303030">I was the first to get a PhD in astrophysics from a Lebanese university. I want to make sure that I'm not the last.
-												So in 2018 I founded <a href="http://shespeaksscience.com/" target="_blank">She Speaks Science</a>, to challenge the narrative of who does STEM and highlight women scientists.
-											Supported by University of Cambridge and the International Astronomical Union, She Speaks Science has grown into a global enterprise. Our storytellers write about their STEM research in the monthly publication, Scheherazade, offered in five languages and we
-										 run fun and engaging storytelling workshops at schools.<br><br>
+												So in 2018 I founded <a href="http://shespeaksscience.com/" target="_blank">She Speaks Science</a>, to build a positive STEM idenity among the youth and highlight women scientists.
+											Supported by University of Cambridge and the International Astronomical Union, She Speaks Science has grown into a global enterprise with footprints in 130+ countries. Our storytellers write about their STEM research in the monthly publication, Scheherazade, offered in five languages. Our mentorship programme PENTA is a matrix offering a unique 1:1 interaction model among women and girls. We
+										 also run fun and engaging storytelling workshops at schools.<br><br>
 											I'm committed to the advancement of not only women in STEM but also women in business.<br><br>
 											At Cambridge Judge Business School Entrepreneurship Centre I designed, launched and led EnterpriseWOMEN, a programme informed by research
 												and human experience to help enterprising women grow their businesses. Within a few months of its launch, it grew into a
@@ -46,7 +46,7 @@ require_once ('./header.php');
 														<h2>She Speaks Science</h2>
 													</header>
 													<a href="http://shespeaksscience.com/" class="image featured"><img src="images/sss.png" alt="" target="_blank"/></a>
-													<p>A global and multi-lingual social enterprise sparking the interest of young people in STEM and promoting women and minority scientists with stories and storytelling workshops.</p>
+													<p>A global and multi-lingual social enterprise sparking the interest of young people in STEM and promoting women and minority scientists through storytelling and mentorship.</p>
 													<a href="http://shespeaksscience.com/" class="button style1" target="_blank">Visit Website</a>
 												</section>
 											</div>
