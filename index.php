@@ -22,9 +22,9 @@ require_once ('./header.php');
 							site template by <a href="http://html.net" class="nobr">HTML</a>
 						</p> -->
 
-						<p class="style3">What do stellar music and high-end audio systems have in common? What does the metaverse have to do with #space education? Why is now a great time to be a science entrepreneur?
+						<p class="style3">What do stellar music and high-end audio systems have in common? What does the metaverse have to do with space education? Why is now a great time to be a science entrepreneur?
 
-I got on the Imperial Innovation &amp; Entrepreneurship Club podcast to discuss how I bring together space science, innovation and entrepreneurship.
+<br>I got on the Imperial Innovation &amp; Entrepreneurship Club podcast to discuss how I bring together space science, innovation and entrepreneurship.
 
 						</p>
 						<ul class="actions">
