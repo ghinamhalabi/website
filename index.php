@@ -22,10 +22,13 @@ require_once ('./header.php');
 							site template by <a href="http://html.net" class="nobr">HTML</a>
 						</p> -->
 
-						<p class="style3">I spoke at the UN Office for Outer Space Affairs <a href="https://space4women.unoosa.org/events/unoosa-expert-meeting-making-space4women-decade-action" target="_blank">Expert Meeting: Making Space4Women in the Decade of Action</a> about how my social enterprise <a href="https://www.shespeaksscience.com/" target="_blank">She Speaks Science</a> is serving women and girls around the globe through mentorship and storytelling.
+						<p class="style3">What do stellar music and high-end audio systems have in common? What does the metaverse have to do with #space education? Why is now a great time to be a science entrepreneur?
+
+I got on the Imperial Innovation & Entrepreneurship Club podcast to discuss how I bring together space science, innovation and entrepreneurship.
+
 						</p>
 						<ul class="actions">
-							<li><a href="https://www.youtube.com/watch?v=9GoLJyAc8Ok&ab_channel=SheSpeaksScience" class="button style3 large" target="_blank">Listen to the talk</a></li>
+							<li><a href="https://open.spotify.com/episode/7KWczuzz2NZaxOaJF2ngeE?si=mrdr1H_eTJmMtg_1qmvMag&dl_branch=1&nd=1" class="button style3 large" target="_blank">Listen to the podcast</a></li>
 						</ul>
 					</div>
 				</section>
