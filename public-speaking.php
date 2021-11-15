@@ -35,14 +35,14 @@ require_once ('./header.php');
 											<br>	<br>
 											<h2> HERE'S A (VERY) BRIEF SELECTION</h2>
 
-											<p><p align="left"><a href="https://www.ted.com/tedx/events/7364" target="_blank"> <strong><font color="red">TEDx</font></strong>AUB, Beirut</a> | 2013
+											<p><p align="left"><a href="https://www.ted.com/tedx/events/7364" target="_blank"> <strong><font color="red">TEDx</font></strong>AUB, Beirut</a>
 
 											<br> <a href="https://www.youtube.com/watch?v=QgrHu53Dxmg" target="_blank">The Genius Formula</a></p>
 
 											<p align="left"><a href="https://www.youtube.com/watch?v=9GoLJyAc8Ok&ab_channel=SheSpeaksScience" target="_blank"> UNOOSA Expert Meeting: Making Space4Women in the Decade of Action </a> | 2021	<br>Invited talk: Space4Women and She Speaks Science, a power couple
 											<p align="left"><a href="https://www.youtube.com/watch?v=Lm2C1nVGwLY&feature=youtu.be&ab_channel=IAUJuniorMemberWG" target="_blank"> International Astronomical Union Online Discourse Series </a> | 2020	<br>Invited keynote: Owning Your Story
 
-												<p align="left"><a href="https://stemwomenconference.co.uk/" target="_blank"> Women in STEM Conference</a> | 2020	<br>Invited speaker: Tough-stemmed in STEM - the Role of Storytelling and Entrepreneurship 
+												<p align="left"><a href="https://stemwomenconference.co.uk/" target="_blank"> Women in STEM Conference</a> | 2020	<br>Invited speaker: Tough-stemmed in STEM - the Role of Storytelling and Entrepreneurship
 											<p align="left"><a href="https://www.youtube.com/watch?v=HPPMWIxj5y8&t=18s&ab_channel=%D8%A3%D8%B3%D8%A8%D9%88%D8%B9%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A" target="_blank"> Arab Science Week </a> | 2020	<br>Invited speaker and panelist
 											<p align="left"><a href="https://www.universiteitleiden.nl/old-observatory/events/2020/februari/pale-blue-dot-symposium" target="_blank"> IAU Pale Blue Dot Symposium, University of Leiden,</a> Netherlands | 2020	<br>Invited speaker: Scheherazade and the Power of Story
 											<p align="left"><a href="http://www.unoosa.org/oosa/en/ourwork/activities/un-jordan.html" target="_blank"> United Nations/Jordan Event on Global Partnership in Space Exploration and Innovation,</a> Amman | 2019	<br>Invited speaker: Power of the Spoken Word: How Stories can Shape Realities, on Earth and in Space
