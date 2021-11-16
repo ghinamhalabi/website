@@ -23,20 +23,18 @@ require_once ('./header.php');
 									<div id="content">
 										<article class="box post">
 											<header class="style1">
-												<h2>For the advancement of women in STEM and in business</h2>
-												<p>Founder of a social enterprise and leading an entrepreneurship programme</p>
+												<h2>For impactful communication and commercialisation of science</h2>
+												<p>Founder of a social enterprise and leading an entrepreneurship development programme</p>
 											</header>
 											<!--  <a href="#" class="image featured">
 												<img src="images/pic01.jpg" alt="" />
 											</a> -->
 											<p style="font-size:16px"><font color="#303030">I was the first to get a PhD in astrophysics from a Lebanese university. I want to make sure that I'm not the last.
 												So in 2018 I founded <a href="http://shespeaksscience.com/" target="_blank">She Speaks Science</a>, to build a positive STEM idenity among the youth and highlight women scientists.
-											Supported by University of Cambridge and the International Astronomical Union, She Speaks Science has grown into a global enterprise with footprints in 130+ countries. Our storytellers write about their STEM research in the monthly publication, Scheherazade, offered in five languages. Our mentorship programme PENTA is a matrix offering a unique 1:1 interaction model among women and girls. We
+											Supported by University of Cambridge and the International Astronomical Union, She Speaks Science grew into a global enterprise across 130+ countries. Our storytellers write about their STEM research in the monthly publication, Scheherazade, offered in five languages. Our mentorship programme PENTA offers a unique 1:1 interaction model among women and girls. We
 										 also run fun and engaging storytelling workshops at schools.<br><br>
-											I'm committed to the advancement of not only women in STEM but also women in business.<br><br>
-											At Cambridge Judge Business School Entrepreneurship Centre I designed, launched and led EnterpriseWOMEN, a programme informed by research
-												and human experience to help enterprising women grow their businesses. Within a few months of its launch, it grew into a
-												 movement championed by seasoned and aspiring entrepreneurs, VIP supporters and contributors of the highest calibre.</font></p>
+											I'm committed to the communication of science as well as its commercialisation for the benefit of humanity.<br><br>
+											At Cambridge Judge Business School Entrepreneurship Centre I lead EnterpriseTECH, a programme that provides impactful entrepreneurial opportunities for academics to thrive beyond the lab. </font></p>
 
 										</article>
 										<div class="row gtr-150">
@@ -53,11 +51,11 @@ require_once ('./header.php');
 											<div class="col-6 col-12-small">
 												<section class="box">
 													<header>
-														<h2>EnterpriseWOMEN</h2>
+														<h2>EnterpriseTECH</h2>
 													</header>
-													<a href="https://www.jbs.cam.ac.uk/entrepreneurship/programmes/enterprisewomen/" class="image featured" target="_blank"><img src="images/ent.jpg" alt="" /></a>
-													<p>An entrepreneurship programme informed by the past and designed for the future to help women and minority entrepreneurs envision their business as the next big thing and claim ownership of their journey and success.</p>
-													<a href="https://www.jbs.cam.ac.uk/entrepreneurship/programmes/enterprisewomen/" class="button style1" target="_blank">Visit Website</a>
+													<a href="https://www.jbs.cam.ac.uk/entrepreneurship/programmes/enterprisewomen/" class="image featured" target="_blank"><img src="images/entr.jpg" alt="" /></a>
+													<p>An entrepreneurship development programme with lectures, workshops, and a team project investigating the commercialisation potential of an early-stage deep tech innovation.</p>
+													<a href="https://www.jbs.cam.ac.uk/entrepreneurship/programmes/enterprisetech/" class="button style1" target="_blank">Visit Website</a>
 												</section>
 											</div>
 										</div>
