@@ -24,7 +24,7 @@ require_once ('./header.php');
 
 						<p class="style3">What do stellar music and high-end audio systems have in common? What does the metaverse have to do with space education? Why is now a great time to be a science entrepreneur?
 
-<br>I got on the Imperial Innovation &amp; Entrepreneurship Club podcast to discuss how I bring together space science, innovation and entrepreneurship.
+<br>I got on the <b>Imperial Innovation &amp; Entrepreneurship Club podcast</b> to discuss how I bring together space science, innovation and entrepreneurship.
 
 						</p>
 						<ul class="actions">
