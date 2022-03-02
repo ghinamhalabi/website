@@ -74,7 +74,7 @@
                                     <font color="#eb5050"> Email</font>
                                 </h3>
                                 <p>
-                                    <a href="mailto:contact [at] ghina.co.uk">contact@ghina.co.uk</a>
+                                    <a href="mailto:contact@ghina.co.uk">contact [at] ghina.co.uk</a>
                                 </p>
                             </section>
                         </div>
