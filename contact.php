@@ -61,7 +61,7 @@
                             </div>-->
                         <div class="col-6 col-12-small">
                             <section>
-                                <h3 class="icon solid fa-comment"> <font color="#71C3C1"> Social</font></h3>
+                                <h3 class="icon solid fa-comment"> <font color="#eb5050"> Social</font></h3>
                                 <p>
                                     <a href="https://twitter.com/Dr_GhinaHalabi" target="_blank">Twitter</a><br />
                                     <a href="https://www.linkedin.com/in/ghinamhalabi/" target="_blank">LinkedIn</a><br />
@@ -71,7 +71,7 @@
                         <div class="col-6 col-12-small">
                             <section>
                                 <h3 class="icon solid fa-envelope">
-                                    <font color="#71C3C1"> Email</font>
+                                    <font color="#eb5050"> Email</font>
                                 </h3>
                                 <p>
                                     <a>contact@ghina.co.uk</a>
