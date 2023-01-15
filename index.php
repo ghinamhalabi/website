@@ -13,8 +13,8 @@ $bodyClass = 'homepage is-preload';
 require_once ('./header.php');
 ?>
 			<!-- Intro -->
-				<section id="intro" class="wrapper style1">
-					<div class="title">My Latest News</div>
+				<section id="intro" class="wrapper style3">
+					<div class="title">My News</div>
 					<div class="container">
 						<!--<p class="style1">So in case you were wondering what this is all about ...</p>
 					 	<p class="style2">
@@ -22,13 +22,14 @@ require_once ('./header.php');
 							site template by <a href="http://html.net" class="nobr">HTML</a>
 						</p> -->
 
-						<p class="style3">What do stellar music and high-end audio systems have in common? What does the metaverse have to do with space education? Why is now a great time to be a science entrepreneur?
+						<p class="style3">I wrote an article on <b>Taking up Space</b>, both literally and figuratively, for the European Institute of the Mediterranean journal Quaderns de la Mediterrània, issue "Mediterranean Women breaking barriers".
 
-<br>I got on the <b>Imperial Innovation &amp; Entrepreneurship Club podcast</b> to discuss how I bring together space science, innovation and entrepreneurship.
+<br><br>The article is a biographical sketch in broad strokes on how taking up space can be intimidating, from studying astrophysics to occupying spaces in which we are a minority.
+
 
 						</p>
 						<ul class="actions">
-							<li><a href="https://open.spotify.com/episode/7KWczuzz2NZaxOaJF2ngeE?si=mrdr1H_eTJmMtg_1qmvMag&dl_branch=1&nd=1" class="button style3 large" target="_blank">Listen to the podcast</a></li>
+							<li><a href="https://www.iemed.org/publication/taking-up-the-space/" class="button style3 large" target="_blank">Read article</a></li>
 						</ul>
 					</div>
 				</section>
@@ -40,15 +41,15 @@ require_once ('./header.php');
 
 						<!-- Image -->
 							<a href="#" class="image featured">
-								<img src="images/pic01.jpg" alt="" />
+								<img src="images/pic001.jpg" alt="" />
 							</a>
 
 						<!-- Features -->
 							<section id="features">
 								<header class="style1">
 
-									<h2 style="font-size:25px"> I was the first to get a PhD in astrophysics from a Lebanese university. I want to make sure that I'm not the last.</h2>
-									<p style="font-size:16px"><font color="#808080">My work lies at the intersection of science, entrepreneurship and education. Thirteen years of research experience in astrophysics lends itself to an ability to think creatively, navigate complexity and drive progress with innovative solutions.</p>
+									<h2 style="font-size:25px"> I am the first to get a PhD in astrophysics from a Lebanese university. I want to make sure that I'm not the last.</h2>
+									<p style="font-size:18px"><font color="#808080">Thirteen years of astrophysics research experience taught me to think creatively, navigate uncertainty and drive progress with innovative solutions. <br>I now work at the intersection of science, entrepreneurship and education. </p>
 
 								<!-- Ghina removed this
 								<div class="feature-list">
@@ -93,7 +94,7 @@ require_once ('./header.php');
 								</div>
 -->
 								<ul class="actions special">
-									<a href="Bio.php" class="button style1 large" >More about me</a>
+									<a href="Bio.php" class="button style3 large" >More about me</a>
 								<!-- 	<li><a href="#" class="button style2 large">More abou tme</a></li> -->
 								</ul>
 							</section>

@@ -36,9 +36,9 @@ require_once ('./header.php');
 													<source src="videos/UN.mp4" type="video/mp4">
 														Your browser does not support the video.
 													</video>
-													<figcaption>UN Secretariat, NY, 2017: At UN High Level Panel addressing the then Deputy-Secretary General Amina Mouhammed and high-ranking officials
+													<figcaption>UN Secretariat, NY, 2017: At UN High Level Panel addressing then Deputy-Secretary General Amina Mouhammed and high-ranking officials
 														with my proposal to establish the Space for Women Network as a solution for the lack of STEM role models.
-														 The UN Office for Outer Space Affairs adopted the recommendation and established this network in 2020. Full Panel proceedings <a href="http://webtv.un.org/www.unwomen.org/en/executive-board/documents/second-regular-session-2014/watch/high-level-panel-space-for-women/5600158803001/?term=&page=7" target="_blank">here</a>.</figcaption>
+														 UN Office for Outer Space Affairs adopted the recommendation and established the network in 2020. Full Panel proceedings <a href="http://webtv.un.org/www.unwomen.org/en/executive-board/documents/second-regular-session-2014/watch/high-level-panel-space-for-women/5600158803001/?term=&page=7" target="_blank">here</a>.</figcaption>
 													</figure>
 														<!--  Removed by Ghina
 													<br>
@@ -54,7 +54,7 @@ require_once ('./header.php');
 														<h2>Space in Tech and Innovation</h2>
 													</header>
 													<a  class="image featured"><img src="images/tech.jpg" alt="" /></a>
-													<p>I consult for businesses to bring space science into the creative industries and high-end tech. Currently consulting for innovative businesses in the music and audiovisual industries (projects in stealth mode).
+													<p>I consult for businesses to bring space science into the creative industries and high-end tech. Businesses include the music and audiovisual industries as well as AR and XR.
 												If you want to discuss a project I can help you with please get in touch.</p>
 													<a href="mailto:contact [at] ghina.co.uk" rel="nofollow" onclick="this.href='mailto:'+'contact'+'@'+'ghina.co.uk'" class="button style1">Send an email</a>
 												</section>
@@ -65,8 +65,8 @@ require_once ('./header.php');
 														<h2>Storytelling Training</h2>
 													</header>
 													<a  class="image featured"><img src="images/cons1.jpg" alt="" /></a>
-													<p>I coach on innovation storytelling through workshops and executive 1:1 training. I've helped executives, academics and entrepreneurs
-														communicate with clarity and impact. If you'd like to discuss 1:1 training, or running a workshop at your company or institution please get in touch.</p>
+													<p>I coach on innovation storytelling through workshops and 1:1 training to help executives, academics and entrepreneurs
+														communicate with clarity and impact. To access my 1:1 training, or run a workshop at your company/institution get in touch!</p>
 													<a href="mailto:contact [at] ghina.co.uk" rel="nofollow" onclick="this.href='mailto:'+'contact'+'@'+'ghina.co.uk'" class="button style1">Send an email</a>
 												</section>
 											</div>
@@ -80,7 +80,7 @@ require_once ('./header.php');
 														<h2>Inclusion in STEM - UNOOSA</h2>
 													</header>
 													<a href="https://space4women.unoosa.org/content/2020-mentor-ghina-halabi" target="_blank" class="image featured"><img src="images/unoosa.png" alt="" /></a>
-													<p>I am a STEM mentor in the UN Office For Outer Space Affairs "Space for Women" Network, and provided input and recommendations for the UN Space for Women Project established by UNOOSA and UN Women to address gender equality.
+													<p>As a STEM mentor in the UN Office For Outer Space Affairs "Space for Women" Network, I provided input and recommendations for Space for Women established by UNOOSA and UN Women to address gender equality.
 														</p>
 													<a href="https://space4women.unoosa.org/content/2020-mentor-ghina-halabi" target="_blank" class="button style1"> Learn More</a>
 												</section>
@@ -101,7 +101,7 @@ require_once ('./header.php');
 														<h2>Storytelling Consultancy</h2>
 													</header>
 													<a href="https://masterclasses.nature.com/online-course-in-narrative-tools/18498356" target="_blank" class="image featured"><img src="images/mastercl.png" alt="" /></a>
-													<p>I acted as expert reviewer for Nature Masterclasses to help them develop their "Narrative Tools for Researchers" course so scientists become better at communicating their work and bring their research stories to life.
+													<p>As expert reviewer I helped Nature Masterclasses develop "Narrative Tools for Researchers" course for scientists to better communicate their work and bring their research stories to life.
 													</p>
 													<a href="https://masterclasses.nature.com/online-course-in-narrative-tools/18498356" target="_blank" class="button style1">Check the course out</a>
 												</section>

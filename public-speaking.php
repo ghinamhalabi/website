@@ -99,9 +99,9 @@ require_once ('./header.php');
 									<div id="sidebar">
 										<section class="box">
 											<header>
-												<h2>Speaking enquiries</h2>
+												<h2>Book me for your next event</h2>
 											</header>
-											<p>I speak on astrophysics, entrepreneurship, storytelling, leadership, equality in STEM and re-thinking education. Please get in touch to discuss your requirements.</p>
+											<p>I speak on astrophysics, entrepreneurship, storytelling, leadership, equality in STEM and re-thinking education. Get in touch to discuss your requirements.</p>
 											<a href="mailto:contact [at] ghina.co.uk" rel="nofollow" onclick="this.href='mailto:'+'contact'+'@'+'ghina.co.uk'" class="button style1">Send an email</a>
 										</section>
 										<section class="box">

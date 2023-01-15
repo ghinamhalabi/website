@@ -16,7 +16,7 @@
                 <section class="highlight">
                     <a href="consultancy.php" class="image featured"><img src="images/cons.jpg" alt="" /></a>
                     <h3><a href="consultancy.php">Consultancy</a></h3>
-                    <p>Consultant on space and astrophysics, communication with storytelling, and inclusion in STEM. A UN STEM mentor with advisory roles in public engagement.</p>
+                    <p>Consultant on space science, communication with storytelling, and inclusion in STEM. A UN STEM mentor with advisory roles in public engagement.</p>
                     <ul class="actions">
                         <li><a href="consultancy.php" class="button style1">Learn More</a></li>
                     </ul>
@@ -25,9 +25,9 @@
 
             <div class="col-4 col-12-medium">
                 <section class="highlight">
-                    <a href="entrepreneurship.php" class="image featured"><img src="images/ent1.jpg" alt="" /></a>
+                    <a href="entrepreneurship.php" class="image featured"><img src="images/chile.jpg" alt="" /></a>
                     <h3><a href="entrepreneurship.php">Entrepreneurship</a></h3>
-                    <p>A social entrepreneur, I'm Founder and Executive Director of She Speaks Science. I also lead an entrepreneurship programme at Cambridge Judge Business School.</p>
+                    <p>Founder and Executive Director of She Speaks Science. I also lead entrepreneurship education programmes at Cambridge Judge Business School.</p>
                     <ul class="actions">
                         <li><a href="entrepreneurship.php" class="button style1">Learn More</a></li>
                     </ul>
@@ -38,7 +38,7 @@
                 <section class="highlight">
                     <a href="public-speaking.php" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
                     <h3><a href="public-speaking.php">Public Speaking</a></h3>
-                    <p>“Words are events, they do things, change things”. I speak on astrophysics, entrepreneurship, equality in STEM, re-thinking education and storytelling.</p>
+                    <p>“Words are events, they do things, change things”. I speak on astrophysics, entrepreneurship, STEM, education and storytelling so that things can change (for the better!).</p>
                     <ul class="actions">
                         <li><a href="public-speaking.php" class="button style1">Learn More</a></li>
                     </ul>
@@ -49,7 +49,7 @@
                 <section class="highlight">
                     <a href="research.php" class="image featured"><img src="images/space.jpg" alt="" /></a>
                     <h3><a href="research.php">Space Research</a></h3>
-                    <p>My research focuses on the structure and evolution of stars, their contribution to the chemical enrichment of the Galaxy and their interactions with nearby companions.</p>
+                    <p>My research contributed to the understanding of how stars live and evolve, chemically enrich their Galaxies, and interact with nearby companions.</p>
                     <ul class="actions">
                         <li><a href="research.php" class="button style1">Learn More</a></li>
                     </ul>
@@ -60,7 +60,7 @@
                 <section class="highlight">
                     <a href="media.php" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
                     <h3><a href="media.php">In the Media</a></h3>
-                    <p>Profiled in the media including BBC Future, Room Space Journal and various podcasts. Was featured as "Modern Muse for Astronomy" by London magazine Postscript.</p>
+                    <p>Profiled in media including BBC Future, Room Space Journal and various podcasts. Featured as "Modern Muse for Astronomy" by London magazine Postscript.</p>
                     <ul class="actions">
                         <li><a href="media.php" class="button style1">Learn More</a></li>
                     </ul>
