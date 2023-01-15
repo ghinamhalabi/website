@@ -119,7 +119,7 @@ require_once ('./header.php');
 											<header>
 												<h2>Consulting and training enquiries</h2>
 											</header>
-											<p>I consult for businesses to bring space science into the creative industries and high-end tech. I coach on innovation storytelling through workshops and executive 1:1 training. Please get in touch to discuss your requirements.</p>
+											<p>Fancy bringing space science into your business to boost innovation or reach new customer segments? Do you need coaching on innovation storytelling through a group workshop or executive 1:1 training? Get in touch to discuss your needs.</p>
 											<a href="mailto:contact [at] ghina.co.uk" rel="nofollow" onclick="this.href='mailto:'+'contact'+'@'+'ghina.co.uk'" class="button style1">Send an email</a>
 										</section>
 
@@ -162,41 +162,41 @@ require_once ('./header.php');
 													<article class="box post-excerpt">
 														<a href="https://www.ast.cam.ac.uk/" class="image left" target="_blank"><img src="images/ioa.png" alt="" /></a>
 														<h3><a href="https://www.ast.cam.ac.uk/" target="_blank">Institute of Astronomy</a></h3>
-														<p>Delivered to astronomy students to help them communicate their research.</p>
+														<p>Trained astronomy students on communicating their research.</p>
 													</article>
 												</li>
 												<li>
 													<article class="box post-excerpt">
 														<a href="https://www.jbs.cam.ac.uk/entrepreneurship/" class="image left" target="_blank"><img src="images/cjbs.jpg" alt="" /></a>
 														<h3><a href="https://www.jbs.cam.ac.uk/entrepreneurship/" target="_blank">Cambridge Judge Business School</a></h3>
-														<p>Helping EnterpriseTECH and EnterpriseWOMEN participants communicate who they are, why their business exists and what it does.</p>
+														<p>Helping entrepreneurs communicate who they are, why their business exists, and what it does.</p>
 													</article>
 												</li>
 												<li>
 													<article class="box post-excerpt">
 														<a href="https://www.sussex.ac.uk/" class="image left" target="_blank"><img src="images/sus.png" alt="" /></a>
 														<h3><a href="https://www.sussex.ac.uk/" target="_blank">University of Sussex</a></h3>
-														<p>Delivered to students and researchers to help them communicate their work to the general public.</p>
+														<p>Helped students and researchers communicate their work to the general public.</p>
 													</article>
 												</li>
 												<li>
 													<article class="box post-excerpt">
 														<a href="https://camvscovid.co.uk/" class="image left" target="_blank"><img src="images/camvscov.jpg" alt="" /></a>
 														<h3><a href="https://camvscovid.co.uk/" target="_blank">CAMvsCOVID</a></h3>
-														<p>Coached teams participating in #CAMvsCOVID Challenge, a social hackathon to tackle Covid-19 challenges, on delivering their pitch.</p>
+														<p>Coached teams in #CAMvsCOVID hackathon on delivering their pitch.</p>
 													</article>
 												</li>
 												<li>
 													<article class="box post-excerpt">
 														<a href="https://ihjoz.com/events/4280-effective-communication-using-storytelling?fbclid=IwAR3_cbGetyvBJJoXj73Dih31389i3eKxANR6N8BJCJhJO9ugBzBl5WQdGAw" class="image left" target="_blank"><img src="images/bdd.jpeg" alt="" /></a>
 														<h3><a href="https://ihjoz.com/events/4280-effective-communication-using-storytelling?fbclid=IwAR3_cbGetyvBJJoXj73Dih31389i3eKxANR6N8BJCJhJO9ugBzBl5WQdGAw" target="_blank">Beirut Digital District</a></h3>
-														<p>A dynamic workshop for entrepreneurs at BDD, a hub for the digital and creative industries in Lebanon, on how to amplify their impact through storytelling.</p>
+														<p>A dynamic workshop for entrepreneurs in digital and creative industries in Lebanon on how to amplify impact through storytelling.</p>
 										<section class="box">
 											<header>
 												<h2>What people say about the workshops</h2>
 											</header>
 											<ul class="style3">
-												<li><i>"The insights Ghina gave in the world of storytelling and pitching were brilliant, and we received overwhelmingly positive feedback on all levels from students to senior executives."</i><br>Darius Sultani, Organiser</li>
+												<li><i>"The insights Ghina gave in the world of storytelling and pitching were brilliant, and we received overwhelmingly positive feedback on all levels from students to senior executives."</i><br>Darius Sultani, CAMvsCOVID Organiser</li>
 												<li><i>"Ghina Halabi is an inspirational speaker, with strong credentials. She captivated the audience for the CamAWiSE seminar in creating a stimulating narrative for communicating research."</i><br>Raheela Rehman, Project Officer</li>
 												<li><i>"I recently needed to prepare for a keynote speech and I applied all that you taught us...and received very positive feedback!"</i><br>CamAWiSE Member, Senior Executive</li>
 												<li><i>“The workshop was a great success to say the least. Most notable was [Ghina's] use of visual aids and analogies to eloquently drive the point home.”<br></i> Rouha Hussaina, Manager</li>

@@ -122,7 +122,7 @@ require_once ('./header.php');
 											<header>
 												<h2>Space in tech and innovation</h2>
 											</header>
-											<p>I consult for innovative businesses to help them bring space science into the creative industries and high-end tech.</p>
+											<p>I consult for innovative businesses to help them bring space science into their products, services and even marketing strategies. Sounds like something you need?</p>
 											<a href="consultancy.php" class="button style1">learn more</a>
 										</section>
 										<section class="box">

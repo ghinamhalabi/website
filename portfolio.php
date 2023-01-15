@@ -16,7 +16,7 @@
                 <section class="highlight">
                     <a href="consultancy.php" class="image featured"><img src="images/cons.jpg" alt="" /></a>
                     <h3><a href="consultancy.php">Consultancy</a></h3>
-                    <p>Consultant on space science, communication with storytelling, and inclusion in STEM. A UN STEM mentor with advisory roles in public engagement.</p>
+                    <p>Consultant on space science and storytelling. Helped innovative businesses bring space science into their products, services and even marketing strategies.</p>
                     <ul class="actions">
                         <li><a href="consultancy.php" class="button style1">Learn More</a></li>
                     </ul>
@@ -38,7 +38,7 @@
                 <section class="highlight">
                     <a href="public-speaking.php" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
                     <h3><a href="public-speaking.php">Public Speaking</a></h3>
-                    <p>“Words are events, they do things, change things”. I speak on astrophysics, entrepreneurship, STEM, education and storytelling so that things can change (for the better!).</p>
+                    <p>“Words are events. They do things, change things”. I speak on astrophysics, entrepreneurship, STEM, education and storytelling so that things can change (for the better!).</p>
                     <ul class="actions">
                         <li><a href="public-speaking.php" class="button style1">Learn More</a></li>
                     </ul>

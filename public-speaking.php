@@ -23,8 +23,8 @@ require_once ('./header.php');
 									<div id="content">
 										<article class="box post">
 											<header class="style1">
-												<h2>“Words are events, they do things, change things” so let's bring on that change!</h2>
-												<p>I have spoken at international conferences and global forums including TEDx and the United Nations. </p>
+												<h2>“Words are events. They do things, change things”. Let's bring on that change!</h2>
+												<p>Public speaking is an art of connection that taps into the collective human experience and goes beyond individual perspectives. As a public speaker, I use this art to challenge you to think differently, spark a transformative process, and bring about change. I've done just that at international conferences and global forums including TEDx and the United Nations. </p>
 											</header>
 											<!-- Image removed by Ghina
 											<a href="#" class="image featured">
