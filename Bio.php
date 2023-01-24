@@ -29,7 +29,7 @@ require_once ('./header.php');
 											</header>
 
 											<figure>
-													<video width=100% height=auto controls poster="images/NOVA-G.png">
+													<video width=100% height=auto controls poster="images/NOVA-G.PNG">
 													<source src="videos/Nova_Ghina.mp4" type="video/mp4">
 														Your browser does not support the video.
 													</video>
