@@ -119,7 +119,7 @@ require_once ('./header.php');
 											<header>
 												<h2>Consulting and training enquiries</h2>
 											</header>
-											<p>Fancy bringing space science into your business to boost innovation or reach new customer segments? Do you need coaching on innovation storytelling through a group workshop or executive 1:1 training? Get in touch to discuss your needs.</p>
+											<p>Would you like to bring space science into your business to boost innovation or reach new customer segments? Do you need coaching on innovation storytelling through a group workshop or executive 1:1 training? Get in touch to discuss your needs.</p>
 											<a href="mailto:contact [at] ghina.co.uk" rel="nofollow" onclick="this.href='mailto:'+'contact'+'@'+'ghina.co.uk'" class="button style1">Send an email</a>
 										</section>
 
