@@ -43,13 +43,13 @@ require_once ('./header.php');
 											-->
 
 
-											<p style="font-size:16px"><font color="#303030"> From studying the Universe and its rattling events, I migrated to another that is similarly dynamic, disruptive and world-rattling: entrepreneurship. Today my work spans the cosmic and the earthly, lying at the intersection of space science, entrepreneurship and education. <br><br>
+											<p style="font-size:16px"><font color="#303030"> From studying the Universe and its rattling events, I migrated to another that is similarly dynamic, disruptive (and no less world-rattling!): entrepreneurship. Today my work spans the cosmic and the earthly, lying at the intersection of space science, entrepreneurship and education. <br><br>
 												At Cambridge Judge Business School, I run entrepreneurship development programmes that offer top business education to help academics commercialise their research.
 
 												Independently, I consult for businesses to bring space science into high-end technology and I coach on innovation storytelling through workshops and executive 1:1 training. Clients include universities, innovation hubs and corporates.<br><br>
 												As the first person to earn a PhD in astrophysics from a Lebanese university, I'm committed to promoting STEM and women in STEM. So I founded <a href="http://www.shespeaksscience.com" target="_blank">She Speaks Science</a>, a multi-lingual social enterprise funded by Cambridge University and International Astronomical Union. I also advised the UN Office for Outer Space Affairs on setting up “Space4Women Network” on which I now mentor, and have advisory roles in public engagement.<br><br>
-												As a public speaker, I use this art of connection to challenge my audience to think differently, spark a transformative process, and bring about change. I keynote and speak on astrophysics, leadership, entrepreneurship and women in STEM at international conferences and global forums including TEDx and the United Nations.<br><br>
-											I was profiled as subject matter expert in the <a href="http://www.ghina.co.uk/media.php" target="_blank">media</a> including BBC Future and was featured as Urania, "Modern Muse for Astronomy" by London magazine Postscript.<br><br>
+												As a public speaker, I challenge my audience to think differently, spark a transformative process, and bring about change. I keynote and speak on astrophysics, leadership, entrepreneurship and women in STEM at international conferences and global forums including TEDx and the United Nations.<br><br>
+											I was profiled as subject matter expert in the <a href="http://www.ghina.co.uk/media.php" target="_blank">media</a> including BBC Future and featured as Urania, "Modern Muse for Astronomy" by London magazine Postscript.<br><br>
 											When not pursuing stellar endeavours, jogging, or exploring physical and vocal expression in my regular theatre training, you can find me sailing with my husband in the English wind.
 										</p>
 												<h2>EDUCATION</h2>
@@ -57,7 +57,7 @@ require_once ('./header.php');
 												MSc. in Physics, <a href="http://www.aub.edu.lb/" target="_blank"> American University of Beirut, Lebanon</a> (2011)<br>
 												BSc. in Physics &amp Mathematics,  <a href="https://www.ul.edu.lb/" target="_blank"> Lebanese University Faculty of Sciences</a>
 												<br>
-												Diploma in Leadership and Management,  <a href="https://www.bath.ac.uk/schools/school-of-management/" target="_blank">University of Bath School of Management, UK</font> (2022)</a>
+												Leadership and Management course,  <a href="https://www.bath.ac.uk/schools/school-of-management/" target="_blank">University of Bath School of Management, UK</font> (2022)</a>
 												</p>
 
 										</article>
