@@ -24,24 +24,12 @@ require_once ('./header.php');
 										<article class="box post">
 											<header class="style1">
 												<h2>“Words are events. They do things, change things”. Let's bring on that change!</h2>
-												<p>Public speaking is an art of connection that taps into the collective human experience and goes beyond individual perspectives. As a public speaker, I use this art to challenge you to think differently, spark a transformative process, and bring about change. I've done just that at international conferences and global forums including TEDx and the United Nations. </p>
+												<p>Public speaking is an art of connection that taps into the collective human experience and goes beyond individual perspectives. As a speaker, I challenge you to think differently, spark a transformative process, and bring about change. I've done just that at international conferences and global forums including TEDx and the United Nations. </p>
 											</header>
 											<!-- Image removed by Ghina
 											<a href="#" class="image featured">
 												<img src="images/pic01.jpg" alt="" />
 											</a> -->
-
-											<figure>
-													<video width=100% height=auto controls poster="images/UNpanel.png">
-													<source src="videos/UN.mp4" type="video/mp4">
-														Your browser does not support the video.
-													</video>
-													<figcaption>UN Secretariat, NY, 2017: At UN High Level Panel addressing then Deputy-Secretary General Amina Mouhammed and high-ranking officials
-														with my proposal to establish the Space for Women Network as a solution for the lack of STEM role models.
-														 UN Office for Outer Space Affairs adopted the recommendation and established the network in 2020. Full Panel proceedings <a href="http://webtv.un.org/www.unwomen.org/en/executive-board/documents/second-regular-session-2014/watch/high-level-panel-space-for-women/5600158803001/?term=&page=7" target="_blank">here</a>.</figcaption>
-													</figure>
-
-													
 											<iframe width="100%" height="auto" src="https://www.youtube.com/embed/QgrHu53Dxmg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 											<br>	<br>
