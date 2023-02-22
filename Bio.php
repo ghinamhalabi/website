@@ -33,7 +33,7 @@ require_once ('./header.php');
 													<source src="videos/Nova_Ghina.mp4" type="video/mp4">
 														Your browser does not support the video.
 													</video>
-													<figcaption>Appeared in "Age of Stars" episode of The Universe by BBC and PBS. The episode is a voyage of discovery featuring the stars' dramatic life cycle of birth, death and renewal. Full episode <a href="https://www.pbs.org/wgbh/nova/series/nova-universe-revealed/" target="_blank">here</a> (only available in the US).<br><br></figcaption>
+													<figcaption>"Age of Stars" episode of The Universe by BBC and PBS. A voyage of discovery on the dramatic life cycle of stars' birth, death and renewal. Full episode <a href="https://www.pbs.org/wgbh/nova/series/nova-universe-revealed/" target="_blank">here</a> (only available in the US).<br><br></figcaption>
 													</figure>
 
 													<!-- Removed by Ghina
@@ -43,7 +43,7 @@ require_once ('./header.php');
 											-->
 
 
-											<p style="font-size:16px"><font color="#303030"> From studying the Universe and its rattling events, I migrated to another that is similarly dynamic, disruptive (and no less world-rattling!): entrepreneurship. Today my work spans the cosmic and the earthly, lying at the intersection of space science, entrepreneurship and education. <br><br>
+											<p style="font-size:16px"><font color="#303030"> From studying the Universe and its rattling events, I migrated to another that is similarly dynamic, disruptive (and no less world-rattling!): entrepreneurship. Spanning the cosmic and the earthly, my work lies at the intersection of space science, entrepreneurship and education. <br><br>
 												At Cambridge Judge Business School, I run entrepreneurship development programmes that offer top business education to help academics commercialise their research.
 
 												Independently, I consult for businesses to bring space science into high-end technology and I coach on innovation storytelling through workshops and executive 1:1 training. Clients include universities, innovation hubs and corporates.<br><br>
