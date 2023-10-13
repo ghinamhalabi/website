@@ -22,14 +22,14 @@ require_once ('./header.php');
 							site template by <a href="http://html.net" class="nobr">HTML</a>
 						</p> -->
 
-						<p class="style3">I wrote an article on <b>Taking up Space</b>, both literally and figuratively, for the European Institute of the Mediterranean journal Quaderns de la Mediterrània, issue "Mediterranean Women breaking barriers".
+						<p class="style3">I talked about <b>Why we go to Space</b> on BBC Radio 3 Free Thinking, together with a science fiction writer, "alien hunter", and historian.
 
-<br><br>The article is a biographical sketch in broad strokes on how taking up space can be intimidating, from studying astrophysics to occupying spaces in which we are a minority.
+<br><br>Whether we go for gold, glory or genius, our spacefaring endeavours are not only real estate expansion, but a defining feature of our civilisation and its future.
 
 
 						</p>
 						<ul class="actions">
-							<li><a href="https://www.iemed.org/publication/taking-up-the-space/" class="button style3 large" target="_blank">Read article</a></li>
+							<li><a href="https://www.bbc.co.uk/programmes/m001qfth" class="button style3 large" target="_blank">Have a listen</a></li>
 						</ul>
 					</div>
 				</section>
